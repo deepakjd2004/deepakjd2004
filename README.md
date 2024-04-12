@@ -1,6 +1,6 @@
 ### Hi, I am Deepak🚀
 
-_Senior Enterprise Architect [Akamai](https://www.akamai.com/)_ :man_technologist: \n
+_Senior Enterprise Architect [Akamai](https://www.akamai.com/)_ :man_technologist: <br>
 _Forever learner_ :man_student:
 <!--
 **deepakjd2004/deepakjd2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
