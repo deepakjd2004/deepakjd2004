@@ -2,6 +2,7 @@
 
 _Senior Enterprise Architect [Akamai](https://www.akamai.com/)_ :man_technologist: <br>
 _Forever learner_ :man_student:
+![Profile picture](https://github.com/deepakjd2004/deepakjd2004/blob/main/Untitled%20design.png)
 <!--
 **deepakjd2004/deepakjd2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
