@@ -1,6 +1,6 @@
 ### Hi, I am Deepak🚀
 
-_Senior Enterprise Architect [Akamai](https://www.akamai.com/)_ :man_technologist: <br>
+_Senior Enterprise Architect Lead [Akamai](https://www.akamai.com/)_ :man_technologist: <br>
 _Forever learner_ :man_student:
 ![Profile picture](https://github.com/deepakjd2004/deepakjd2004/blob/main/Untitled%20design.png)
 <!--
